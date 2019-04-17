@@ -1,0 +1,16 @@
+header {
+        /*Sizing of the element*/
+    
+    height: 600px;
+    width: 100%;
+    
+        /*set and adjust background image*/
+    
+    background-image: url(" ");
+    background-size: cover;
+    
+        /*center the text*/
+    
+    text-align: center;
+    font-family: 'Srisakdi', cursive;
+}
